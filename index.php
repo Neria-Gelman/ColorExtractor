@@ -1,5 +1,5 @@
 <?php
-include_once("Class.php");
+include_once("GetMostCommonColors.php");
 $ex = new GetMostCommonColors();
 ?>
 
