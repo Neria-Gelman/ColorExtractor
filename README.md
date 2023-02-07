@@ -1,1 +1,1 @@
-# ColorExtractor
+# Image analysis - PHP
